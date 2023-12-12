@@ -1,7 +1,7 @@
 
-# Paul_King_FinalProject
+#Paul_King_FinalProject
 
-``````
+````
 function getDaysUntilChristmas(){
     let date = new Date();
     let month = date.getMonth() + 1;
@@ -22,8 +22,8 @@ function getDaysUntilChristmas(){
 };
 
 getDaysUntilChristmas();
-``````
+````
 
-[](images/Android.png)
-[](images/parallels.png)
-[](images/iOS.png)
+![](images/Android.png)
+![](images/parallels.png)
+![](images/iOS.png)
